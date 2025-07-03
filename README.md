@@ -18,7 +18,7 @@ This is my personal portfolio website built with **React**, **Tailwind CSS**, an
 
 ## 🚀 Live Demo
 
-[https://your-deployment-link.vercel.app](https://your-deployment-link.vercel.app)
+https://portfolio-anikate.vercel.app/
 
 ## 🛠️ Tech Stack
 
